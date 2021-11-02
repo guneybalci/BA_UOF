@@ -1,0 +1,12 @@
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\MyUOF.exe.config
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\MyUOF.exe
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\MyUOF.pdb
+C:\Users\melik\source\repos\MyUOF\MyUOF\obj\Debug\MyUOF.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\MyUOF\MyUOF\obj\Debug\MyUOF.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\MyUOF\MyUOF\obj\Debug\MyUOF.exe
+C:\Users\melik\source\repos\MyUOF\MyUOF\obj\Debug\MyUOF.pdb
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\EntityFramework.dll
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\EntityFramework.xml
+C:\Users\melik\source\repos\MyUOF\MyUOF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\melik\source\repos\MyUOF\MyUOF\obj\Debug\MyUOF.csproj.CopyComplete

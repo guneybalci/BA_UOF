@@ -1,0 +1,15 @@
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\melik\source\repos\MyUOF\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
